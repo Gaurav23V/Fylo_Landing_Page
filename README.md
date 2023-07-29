@@ -20,7 +20,7 @@ Welcome to the Fylo company homepage project! This is a responsive and visually 
 
 ## Demo
 
-Check out the live demo of the project [here](https://your-demo-url.com). <!-- Replace "your-demo-url" with your actual demo URL -->
+Check out the live demo of the project <a href="https://gaurav23v.github.io/Fylo_Landing_Page/">here.</a>
 
 ## Features
 
